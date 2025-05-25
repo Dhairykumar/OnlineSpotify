@@ -39,7 +39,6 @@ Spotify-Mood-Detector/
 │
 ├── conn.java                  # DB connection handler  
 ├── Login.java                 # User login interface  
-├── Register.java              # New user registration form  
 ├── MoodDetector.java          # Main mood detection logic  
 ├── SpotifyRecommender.java    # Spotify API integration  
 ├── Dashboard.java             # User dashboard for mood history and songs  
